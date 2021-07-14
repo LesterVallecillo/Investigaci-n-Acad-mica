@@ -11,5 +11,5 @@ Del mismo modo, el propósito de estudio sobre redes neuronales es comprender lo
   
   
   #Latex (tex)
-  #Matlab (m)
+  #Power BI
   #NeuralTools
