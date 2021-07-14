@@ -1,6 +1,6 @@
 # Investigacion-Academica
 
-{\LARGE A}nalizar la información para transformarla en conocimiento de manera eficiente, es un reto para las organizaciones de la actualidad. 
+Analizar la información para transformarla en conocimiento de manera eficiente, es un reto para las organizaciones de la actualidad. 
 La inteligencia de negocios (BI, Business Intelligence) surge como un arma estratégica para descubrir ventajas competitivas en el mercado, 
 utilizando el conocimiento que describe la información oportuna mediante el uso de herramientas de análisis de datos para dar soporte a la toma de decisiones.
 
