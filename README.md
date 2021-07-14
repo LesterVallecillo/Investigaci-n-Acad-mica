@@ -10,6 +10,4 @@ En conclusión, con un prototipo de BI se pretende validar la investigación pre
 Del mismo modo, el propósito de estudio sobre redes neuronales es comprender los aspectos teóricos y prácticos relacionados con ANS, para modelar problemas lineales y no lineales, particularmente en una aplicación del campo de las finanzas, denominada aprobación de crédito. De la misma manera, se pretende evaluar la capacidad de la red en la predicción de problemas de clasificación, comparando la medida del error obtenido en el entrenamiento de las redes neuronales mas utilizadas.
   
   
-  #Latex (tex)
-  #Power BI
-  #NeuralTools
+  #Latex (tex), #Power BI, #NeuralTools
